@@ -1,0 +1,18 @@
+[submodule "organization/hustproposal"]
+	path = organization/hustproposal
+	url = https://github.com/hust-latex/hustproposal.git
+[submodule "organization/husttrans"]
+	path = organization/husttrans
+	url = https://github.com/hust-latex/husttrans.git
+[submodule "organization/hustbeamer"]
+	path = organization/hustbeamer
+	url = https://github.com/hust-latex/hustbeamer.git
+[submodule "organization/hustreport"]
+	path = organization/hustreport
+	url = https://github.com/hust-latex/hustreport.git
+[submodule "organization/itecreport"]
+	path = organization/itecreport
+	url = https://github.com/hust-latex/itecreport.git
+[submodule "organization/hustthesis"]
+	path = organization/hustthesis
+	url = https://github.com/hust-latex/hustthesis.git
